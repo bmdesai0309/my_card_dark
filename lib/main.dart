@@ -32,7 +32,7 @@ class MyCard extends StatelessWidget {
                   'FLUTTER DEVLOPER',
                   style: TextStyle(
                       fontSize: 22.0,
-                      fontWeight: FontWeight.w400,
+                      fontWeight: FontWeight.w200,
                       fontFamily: 'Montserrat'),
                 ),
                 SizedBox(
